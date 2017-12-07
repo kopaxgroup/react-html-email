@@ -2,7 +2,7 @@
   "presets": [
     ["env", {
       "targets": {
-        "node": "4.0"
+          "browserslist": ["IE >= 9", "last 2 versions"],
       }
     }],
     "react"
